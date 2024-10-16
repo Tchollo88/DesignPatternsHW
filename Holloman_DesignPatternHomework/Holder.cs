@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Holloman_DesignPatternHomework
 {
-    public class Base : IngerdientDecorator
+    public class Holder : IngerdientDecorator
     {
-        public Base(double cost, string name, IngerdientDecorator obj) : base(cost, name, obj)
+        public Holder(decimal cost, string name, IngerdientDecorator obj) : base(cost, name, obj)
         { }
     }
 }

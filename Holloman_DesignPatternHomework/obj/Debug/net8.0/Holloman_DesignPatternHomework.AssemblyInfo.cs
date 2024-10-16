@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Holloman_DesignPatternHomework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acec0ef5ef398c1cb92a94387b625b43e57cc01b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+323d2aba3cd9ca1f85d0088742746b8da9195e5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Holloman_DesignPatternHomework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Holloman_DesignPatternHomework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tchol\\source\\repos\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework.csproj": {}
+    "C:\\Users\\Tchol\\OneDrive\\Desktop\\School\\ComputerScience\\repo\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tchol\\source\\repos\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework.csproj": {
+    "C:\\Users\\Tchol\\OneDrive\\Desktop\\School\\ComputerScience\\repo\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tchol\\source\\repos\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework.csproj",
+        "projectUniqueName": "C:\\Users\\Tchol\\OneDrive\\Desktop\\School\\ComputerScience\\repo\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework.csproj",
         "projectName": "Holloman_DesignPatternHomework",
-        "projectPath": "C:\\Users\\Tchol\\source\\repos\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework.csproj",
+        "projectPath": "C:\\Users\\Tchol\\OneDrive\\Desktop\\School\\ComputerScience\\repo\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework.csproj",
         "packagesPath": "C:\\Users\\Tchol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tchol\\source\\repos\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework\\obj\\",
+        "outputPath": "C:\\Users\\Tchol\\OneDrive\\Desktop\\School\\ComputerScience\\repo\\Holloman_DesignPatternHomework\\Holloman_DesignPatternHomework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

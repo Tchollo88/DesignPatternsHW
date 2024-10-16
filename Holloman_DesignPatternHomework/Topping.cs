@@ -8,7 +8,7 @@ namespace Holloman_DesignPatternHomework
 {
     public class Topping : IngerdientDecorator
     {
-        public Topping(double cost, string name, IngerdientDecorator obj) : base(cost, name, obj) 
+        public Topping(decimal cost, string name, IngerdientDecorator obj) : base(cost, name, obj) 
         { }
     }
 }

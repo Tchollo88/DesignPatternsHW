@@ -13,9 +13,9 @@ https://refactoring.guru/design-patterns/decorator
 
 Scoop icecream = new Scoop(.35m, "Vanilla", null, "Bob");
 //Scoop icecream2 = new Scoop(.45m, "caramelnouget", icecream, null);
-Base cone = new Base(.15m, "Waffle", icecream);
+Holder cone = new Holder(.15m, "Waffle", icecream);
 Topping syrup = new Topping(.1m, "Strawberry", cone);
 Topping organic = new Topping(.05m, "Peanut", syrup);
 Topping candy = new Topping(.05m, "Spinkles", organic);
 
-Console.WriteLine(candy.CalculateCost());
+Console.WriteLine(candy.CalaculateCost());

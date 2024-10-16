@@ -6,26 +6,27 @@ using System.Threading.Tasks;
 
 namespace Holloman_DesignPatternHomework
 {
-    public class IngerdientDecorator
+    public class IngerdientDecorator : IIngerdient
     {
         private IngerdientDecorator _reference { get; set; }
-        public double Cost {  get; set; }
+        public decimal Cost {  get; set; }
         public string Name {  get; set; }
 
-        public IngerdientDecorator(double cost, string name, IngerdientDecorator obj)
+        public IngerdientDecorator(decimal cost, string name, IngerdientDecorator obj)
         {
             _reference = obj;
             Cost = cost;
             Name = name;
         }
 
-        public double CalculateCost()
+        public decimal CalaculateCost()
         {
             if (_reference == null)
             {
                 return Cost;
             }
-            return Cost + _reference.CalculateCost;
+            return Cost + _reference.CalaculateCost();
+            //return Cost + ((IIngerdient)_reference).CalaculateCost();
         }
     }
 }

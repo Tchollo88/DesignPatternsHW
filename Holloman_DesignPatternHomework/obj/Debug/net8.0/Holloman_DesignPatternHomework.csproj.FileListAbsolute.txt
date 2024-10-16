@@ -17,6 +17,13 @@ C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatte
 C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\obj\Debug\net8.0\Holloman_DesignPatternHomework.AssemblyInfo.cs
 C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\obj\Debug\net8.0\Holloman_DesignPatternHomework.csproj.CoreCompileInputs.cache
 C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\obj\Debug\net8.0\Holloman_DesignPatternHomework.sourcelink.json
+C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\bin\Debug\net8.0\Holloman_DesignPatternHomework.exe
+C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\bin\Debug\net8.0\Holloman_DesignPatternHomework.deps.json
+C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\bin\Debug\net8.0\Holloman_DesignPatternHomework.runtimeconfig.json
+C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\bin\Debug\net8.0\Holloman_DesignPatternHomework.dll
+C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\bin\Debug\net8.0\Holloman_DesignPatternHomework.pdb
 C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\obj\Debug\net8.0\Holloman_DesignPatternHomework.dll
 C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\obj\Debug\net8.0\refint\Holloman_DesignPatternHomework.dll
 C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\obj\Debug\net8.0\Holloman_DesignPatternHomework.pdb
+C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\obj\Debug\net8.0\Holloman_DesignPatternHomework.genruntimeconfig.cache
+C:\Users\Tchol\OneDrive\Desktop\School\ComputerScience\repo\Holloman_DesignPatternHomework\Holloman_DesignPatternHomework\obj\Debug\net8.0\ref\Holloman_DesignPatternHomework.dll

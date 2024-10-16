@@ -8,6 +8,6 @@ namespace Holloman_DesignPatternHomework
 {
     public interface IIngerdient
     {
-        public double CalaculateCost();
+        public decimal CalaculateCost();
     }
 }
